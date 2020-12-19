@@ -9,8 +9,9 @@ sh build.sh
 # 利用者向けセットアップ方法
 - スプレッドシートを作る
 - スクリプトエディタを開く
-- ./dist/index.jsの内容をスクリプトエディタにコピペする
+- [./dist/index.js](https://raw.githubusercontent.com/naosim/gas-issue/main/dist/index.js)のソースをスクリプトエディタにコピペする
 - setupを実行する
+- 権限などを確認されたら、すべてokにする
 - スプレッドシートをリロードする（メニューを読み込むため）
 - 以下が確認できたらセットアップ完了
   - シートができている
