@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",                        /* 出力構造をディレクトリにリダイレクトします。 */
+    "rootDir": "./src",
+    "target": "ES3",
+    "strictPropertyInitialization": true,
+    "strictNullChecks": true,
+    // "isolatedModules": false
+  },
+}
